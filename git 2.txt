@@ -1,0 +1,13 @@
+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
+
+echo "# jenkins" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Nihanth316/jenkins.git
+git push -u origin main
+
+git remote add origin https://github.com/Nihanth316/jenkins.git
+git branch -M main
+git push -u origin main
